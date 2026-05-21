@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+gunicorn
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt==4.0.1
+azure-cosmos
+openai>=1.0.0
+azure-storage-blob
+python-multipart
+python-dotenv
+pydantic
+httpx
